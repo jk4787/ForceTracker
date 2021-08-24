@@ -1,0 +1,7 @@
+.backdropMapModal {
+  background-color: rgba(35, 40, 124, 1);
+}
+
+.modal-body button {
+  border-radius: 0rem 0.25rem 0rem 0.25rem !important;
+}
